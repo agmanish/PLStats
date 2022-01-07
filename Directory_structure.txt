@@ -1,0 +1,62 @@
+1992-2006 legacy stats
+    -1992:
+        - Club stats
+        - Player stats
+        - Club General
+        - Player general
+    .
+    .
+    .
+    .
+    -2006:
+        - Club stats
+        - Player stats
+        - Club General
+        - Player general        
+    
+    -Overall
+        - Club stats (92-06)
+        - Player stats (92-06)
+        - Club General (92-06)
+        - Player general (92-06)         
+
+2007-2020 legacy stats:
+    -2007:
+        - Club stats
+        - Player stats
+        - Club General
+        - Player general
+    .
+    .
+    .
+    .
+    -2020:
+        - Club stats
+        - Player stats
+        - Club General
+        - Player general        
+    
+    -Overall
+        - Club stats (07-20)
+        - Player stats (07-20)
+        - Club General (07-20)
+        - Player general (07-20) 
+
+Current Season stats (Updated weekly):
+    - Club stats
+    - Player stats
+    - Club General
+    - Player general
+
+Overall stats:
+    1992-2021: (Inaccurate Missing Data)
+    - Club stats
+    - Player stats
+    - Club General
+    - Player general
+
+    2007-2021: 
+    - Club stats
+    - Player stats
+    - Club General
+    - Player general
